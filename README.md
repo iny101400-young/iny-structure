@@ -23,7 +23,7 @@
 
 | | 여기서 만든 문서 한 장이 |
 |---|---|
-| 06 사이트 | 페이지 한 개가 됩니다. 주소 하나 |
+| 05 사이트 | 페이지 한 개가 됩니다. 주소 하나 |
 | 07 글쓰기 | 글 한 편의 뼈대가 됩니다. 근거가 이미 붙어 있습니다 |
 | 검색 · AI 답변 | 「이 사람은 뭘 할 줄 아나」에 꺼내 쓰는 조각이 됩니다 |
 
@@ -315,7 +315,7 @@ outputs/03-structure/
 
 ```
 01 material  →  02 identify  →  03 structure  →  04 design
-→  05 tech  →  06 build  →  07 admin  →  08 measure  ⟳
+→  05 build  →  06 admin  →  07 tech  →  08 measure  ⟳
 ```
 
 다음은 [04 design](https://github.com/iny101400-young/iny-design) 입니다.
